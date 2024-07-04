@@ -2,7 +2,7 @@
 
 This simple payload draws a cube on the screen using software rendering. Developed with SDL2/C for jailbroken PS5 (3.xx-4xx).
 
-Looking at the cube for a long time can cause an optical illusion...
+Looking at the cube for a long time cause an optical illusion (Necker cube)...
 
 ## Prerequisites
 - elfldr.elf
